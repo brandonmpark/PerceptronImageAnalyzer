@@ -1,0 +1,18 @@
+{
+  "train": true,
+  "nodes": [2, 5, 5, 3],
+  "printDetailed": false,
+
+  "weightsPath": "src/weights/bool.txt",
+  "setsPath": "src/sets/bool.txt",
+
+  "useTrainingWeights": false,
+  "lambda": 0.3,
+  "maxIterations": 100000,
+  "errorThreshold": 0.001,
+  "minRandom": 0.1,
+  "maxRandom": 1.5,
+  "saveWeights": true,
+  "savedWeightsPath": "src/weights/bool.txt",
+  "autosaveInterval": 0
+}

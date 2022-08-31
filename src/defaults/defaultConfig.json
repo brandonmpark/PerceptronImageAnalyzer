@@ -1,0 +1,18 @@
+{
+  "train": true,
+  "nodes": [2, 2, 2, 1],
+  "printDetailed": false,
+
+  "weightsPath": "src/default/defaultWeights.txt",
+  "setsPath": "src/default/defaultSets.txt",
+
+  "useTrainingWeights": false,
+  "lambda": 0.3,
+  "maxIterations": 10000,
+  "errorThreshold": 0.001,
+  "minRandom": -1.0,
+  "maxRandom": 1.5,
+  "saveWeights": true,
+  "savedWeightsPath": "src/default/defaultWeights.txt",
+  "autosaveInterval": 0
+}

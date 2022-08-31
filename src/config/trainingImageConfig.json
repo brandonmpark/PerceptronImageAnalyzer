@@ -1,0 +1,18 @@
+{
+  "train": true,
+  "nodes": [1056, 106, 11, 1],
+  "printDetailed": false,
+
+  "weightsPath": "src/weights/image.txt",
+  "setsPath": "TRAINING_IMAGES",
+
+  "useTrainingWeights": false,
+  "lambda": 0.03,
+  "maxIterations": 2000,
+  "errorThreshold": 0.001,
+  "minRandom": -1.5,
+  "maxRandom": 1.5,
+  "saveWeights": true,
+  "savedWeightsPath": "src/weights/image.txt",
+  "autosaveInterval": 1000
+}

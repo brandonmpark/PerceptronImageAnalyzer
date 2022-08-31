@@ -1,0 +1,9 @@
+/json-simple-1.1.1.jar
+        /.idea/
+/ATCSNeuralNetworks.iml
+/src/weights/and.txt
+/src/weights/binary.txt
+/src/weights/bool.txt
+/src/weights/image.txt
+/src/weights/or.txt
+/src/weights/xor.txt
