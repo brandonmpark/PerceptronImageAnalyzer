@@ -1,6 +1,6 @@
 # Two Hidden-Layer Perceptron in Java
 
-This repository contains my primary project in my high school neural networks course, a Java implementation of a two hidden-layer perceptron that can also conduct some basic image analysis (i.e. counting how many fingers are in a picture of a hand). For the most part, this project is my unedited work from the course, and my primary changs were to code style, documentation, and the ImageProcessor. 
+This repository contains a Java implementation of a two hidden-layer perceptron that can also conduct some basic image analysis (i.e. counting how many fingers are in a picture of a hand). All code was implemented from scratch, with the only external library used being a JSON parsing library.
 
 # Usage Instructions
 ## External Libraries
